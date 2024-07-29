@@ -1,0 +1,24 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "A advanced version of TODO app where you can manage yours TODOs like mark as important, mark as completed, add due time and date and many more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subhm08/TODO-App.git"
+  },
+  "keywords": [
+    "ReactJs",
+    "TODO",
+    "Internsala"
+  ],
+  "author": "Shubham kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subhm08/TODO-App/issues"
+  },
+  "homepage": "https://github.com/subhm08/TODO-App#readme"
+}
